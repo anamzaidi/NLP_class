@@ -18,7 +18,7 @@ def main():
         result = count_string(arg_input)
         print('result using arg input = ', result)
     else:
-        default_input = 'CS 430i1 Natural Language Processing'
+        default_input = 'CS 4301 Natural Language Processing'
         print('Default string: ', default_input)
         result = count_string(default_input)
         print('result using default input = ', result)
