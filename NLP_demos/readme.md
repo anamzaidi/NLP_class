@@ -6,5 +6,5 @@ In this folder:
 - intro to NLTK
 - 2-text processing
   (remove newlines, lower case, tokenize, remove stopwords, remove punctuation
-- 3 normalizing text
+- 3-normalizing text
   (sentenct tokenization, word tokenization, stem, lemmatize, part of speech tagging)
